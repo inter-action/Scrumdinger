@@ -2,7 +2,7 @@
 //  ScrumdingerUITests.swift
 //  ScrumdingerUITests
 //
-//  Created by 王娜 on 2022/10/5.
+
 //
 
 import XCTest
